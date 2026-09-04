@@ -89,5 +89,5 @@ I am a **4th-year Web Development student**, **UI/UX Designer**, and **Full-Stac
 ---
 
 <p align="center">
-  <sub>✦ Curated by <a href="https://github.com/ElishaClaireGania">ElishaClaireGania</a> ✦</sub>
+  <sub>✦ Designed by <a href="https://github.com/ElishaClaireGania">ElishaClaireGania</a> ✦</sub>
 </p>
