@@ -5,6 +5,12 @@
 </p>
 
 <p align="center">
+  <a href="https://github.com/ElishaClaireGania">
+    <img src="https://capsule-render.vercel.app/api?type=rect&color=150D1E&stroke=BFA8E0&strokeWidth=2&fontColor=F3E5AB&fontSize=36&fontAlignY=40&height=160&width=800&text=✦%20ELISHA%20CLAIRE%20ANGELES%20GANIA%20✦&desc=🪶%204TH-YEAR%20WEB%20DEVELOPMENT%20SCHOLAR%20•%20Code:386&descSize=15&descAlignY=68&descColor=BFA8E0" alt="Elisha Claire Angeles Gania Header" />
+  </a>
+</p>
+
+<p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Cinzel&weight=600&size=20&pause=1000&color=BFA8E0&center=true&vCenter=true&width=700&height=40&lines=UI%2FUX%20Designer%20%26%20Full-Stack%20Developer;Designing%20Intuitive%20Interfaces%20%26%20Seamless%20Systems;4th-Year%20Web%20Development%20Student" alt="Typing headlines" />
 </p>
 
