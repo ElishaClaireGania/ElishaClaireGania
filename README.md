@@ -24,7 +24,7 @@ I am a **4th-year Web Development student**, **UI/UX Designer**, and **Full-Stac
 
 ---
 
-### 🏛️ The Four Ateliers • Technical Compendium
+### <img src="https://raw.githubusercontent.com/ElishaClaireGania/ElishaClaireGania/main/icon-temple.svg" width="22" height="22" align="center" /> The Four Ateliers • Technical Compendium
 
 #### I. Front-End & Curatorial UI/UX 
 <p align="left">
