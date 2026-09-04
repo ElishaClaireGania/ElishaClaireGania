@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://github.com/ElishaClaireGania">
-    <img src="https://capsule-render.vercel.app/api?type=rect&color=150D1E&stroke=BFA8E0&strokeWidth=2&fontColor=F3E5AB&fontSize=42&fontAlignY=50&height=140&width=800&text=✦%20ELISHA%20CLAIRE%20ANGELES%20GANIA%20✦" alt="Elisha Claire Gania Angeles Header" />
+    <img width="100%" src="https://raw.githubusercontent.com/ElishaClaireGania/ElishaClaireGania/main/header-banner.svg" alt="✦ ELISHA CLAIRE ANGELES GANIA ✦" />
   </a>
 </p>
 
@@ -10,15 +10,18 @@
   <a href="https://github.com/ElishaClaireGania"><img src="https://img.shields.io/badge/GitHub-ElishaClaireGania-BFA8E0?style=for-the-badge&logo=github&logoColor=150D1E&labelColor=150D1E" alt="GitHub" /></a>
 </p>
 
----
-
+<p align="center">
+  <img width="100%" src="https://raw.githubusercontent.com/ElishaClaireGania/ElishaClaireGania/main/botanical-divider.svg" alt="Botanical Divider" />
+</p>
 
 I am a **4th-year Web Development student**, **UI/UX Designer**, and **Full-Stack Developer** dedicated to building resilient, high-craft web systems. My design philosophy bridges with the architectural rigor of modern full-stack engineering.
 
 - **Academic Focus**: 4th-Year Scholar in Web Development specializing in interactive systems, human-centered UI/UX, and distributed backends.
 - **Engineering Tenet**: Clean code, modular architectures, accessible interfaces, and zero visual clutter.
 
----
+<p align="center">
+  <img width="100%" src="https://raw.githubusercontent.com/ElishaClaireGania/ElishaClaireGania/main/botanical-divider.svg" alt="Botanical Divider" />
+</p>
 
 ### 🏛️ The Four Ateliers • Technical Compendium
 
@@ -62,7 +65,9 @@ I am a **4th-year Web Development student**, **UI/UX Designer**, and **Full-Stac
   <img src="https://img.shields.io/badge/VS_Code-5C1424?style=for-the-badge&logo=vscodium&logoColor=F3E5AB" alt="VS Code" />
 </p>
 
----
+<p align="center">
+  <img width="100%" src="https://raw.githubusercontent.com/ElishaClaireGania/ElishaClaireGania/main/botanical-divider.svg" alt="Botanical Divider" />
+</p>
 
 ### 📊 Archival Ledger • GitHub Activity
 
@@ -72,10 +77,12 @@ I am a **4th-year Web Development student**, **UI/UX Designer**, and **Full-Stac
 </p>
 
 <p align="center">
-  <img width="80%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ElishaClaireGania&hide_title=true&bg_color=150d1e&title_color=bfa8e0&text_color=ede7f6&border_color=bfa8e0&icon_color=d4af37&chart_color=bfa8e0" alt="Contribution Summary" />
+  <img width="98%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ElishaClaireGania&bg_color=150d1e&title_color=bfa8e0&text_color=ede7f6&border_color=bfa8e0&icon_color=d4af37&chart_color=bfa8e0" alt="Contribution Summary" />
 </p>
 
----
+<p align="center">
+  <img width="100%" src="https://raw.githubusercontent.com/ElishaClaireGania/ElishaClaireGania/main/botanical-divider.svg" alt="Botanical Divider" />
+</p>
 
 ### 📜 Scholarly Inscription
 
@@ -85,7 +92,9 @@ I am a **4th-year Web Development student**, **UI/UX Designer**, and **Full-Stac
   — <b>Grace Hopper</b>
 </p>
 
----
+<p align="center">
+  <img width="100%" src="https://raw.githubusercontent.com/ElishaClaireGania/ElishaClaireGania/main/botanical-divider.svg" alt="Botanical Divider" />
+</p>
 
 <p align="center">
   <sub>✦ Curated by <a href="https://github.com/ElishaClaireGania">ElishaClaireGania</a> ✦</sub>
