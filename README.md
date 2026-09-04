@@ -1,75 +1,100 @@
 <p align="center">
   <a href="https://github.com/ElishaClaireGania">
-    <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=8957e5&fontSize=54&height=90&width=634&text=Hello!%20I'm%20Elisha" alt="Hello! I&#39;m Elisha" />
+    <img src="https://capsule-render.vercel.app/api?type=rect&color=150D1E&stroke=BFA8E0&strokeWidth=2&fontColor=F3E5AB&fontSize=42&fontAlignY=45&height=140&width=800&text=✦%20ELISHA%20CLAIRE%20GANIA%20✦&desc=UI%2FUX%20Designer%20•%20Full-Stack%20Developer%20•%204th-Year%20Web%20Dev%20Scholar&descSize=16&descAlignY=70&descColor=BFA8E0" alt="Elisha Claire Gania Header" />
   </a>
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Caveat&weight=600&size=26&pause=1000&color=a371f7&center=true&vCenter=true&width=595&height=44&lines=UI%2FUX%20Designer%20%26%20Full-Stack%20Developer" alt="Typing headlines" />
+  <img src="https://readme-typing-svg.demolab.com?font=Cinzel&weight=600&size=20&pause=1000&color=BFA8E0&center=true&vCenter=true&width=700&height=40&lines=Ex+Libris+%E2%80%A2+Where+Old+English+Libraries+Meet+Modern+Web+Systems;4th-Year+Web+Development+Scholar+%26+Digital+Curator;Balancing+Dusty+Lilac+Silk%2C+Forest+Vellum%2C+%26+Full-Stack+Code" alt="Typing headlines" />
 </p>
-
-### 🚀 About Me
-
-4th-year Web Development student who loves turning complex visual concepts into seamless, functional web systems.
-
-### 🛠️ Tech Stack
-
-<p align="left">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL" />
-  <img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D" alt="Vue.js" />
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" />
-  <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" alt="Angular" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI" />
-  <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express" />
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
-  <img src="https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="pandas" />
-  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter" />
-  <img src="https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind CSS" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white" alt="AWS" />
-  <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" alt="Netlify" />
-  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=vscodium&logoColor=white" alt="VS Code" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
-</p>
-
-### 🔗 Connect With Me
-
-<p align="left">
-  <a href="mailto:elishaclairegania@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-  <a href="https://linkedin.com/in/www.linkedin.com/in/elisha-claire-gania" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-</p>
-
-### 📊 GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats-five-sigma-99.vercel.app/api?username=ElishaClaireGania&show_icons=true&theme=tokyonight&title_color=8957e5&icon_color=8957e5&hide_border=true&bg_color=00000000&count_private=true" alt="stats" />
-  <img height="165" src="https://github-readme-stats-five-sigma-99.vercel.app/api/top-langs/?username=ElishaClaireGania&layout=compact&theme=tokyonight&title_color=8957e5&icon_color=8957e5&hide_border=true&bg_color=00000000&langs_count=8" alt="top langs" />
-</p>
-
-### 📈 Contribution Graph
-
-<p align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=ElishaClaireGania&bg_color=11001B&color=7760B0&line=7760B0&point=E3DBEE&area=true&hide_border=true" alt="activity graph" />
-</p>
-
-### 💭 Dev Quote
-
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dev quote" />
+  <a href="mailto:elishaclairegania@gmail.com"><img src="https://img.shields.io/badge/Missive-elishaclairegania%40gmail.com-BFA8E0?style=for-the-badge&logo=gmail&logoColor=150D1E&labelColor=150D1E" alt="Email" /></a>
+  <a href="https://linkedin.com/in/www.linkedin.com/in/elisha-claire-gania"><img src="https://img.shields.io/badge/Registry-Elisha%20Claire%20Gania-1B4332?style=for-the-badge&logo=linkedin&logoColor=F3E5AB&labelColor=150D1E" alt="LinkedIn" /></a>
+  <a href="https://github.com/ElishaClaireGania"><img src="https://img.shields.io/badge/Archive-ElishaClaireGania-5C1424?style=for-the-badge&logo=github&logoColor=F3E5AB&labelColor=150D1E" alt="GitHub" /></a>
 </p>
 
 ---
-<p align="center"><i>⭐️ From <a href="https://github.com/ElishaClaireGania">ElishaClaireGania</a></i></p>
+
+### 📖 Ex Libris • About The Scholar
+
+> *“Ars Longa, Vita Brevis — Craft is long, life is brief.”*
+
+I am a **4th-year Web Development student**, **UI/UX Designer**, and **Full-Stack Developer** dedicated to building resilient, high-craft web systems. My design philosophy bridges the quiet sensory warmth of **vintage English libraries, classical marble statuary, and dusty lilac silks** with the architectural rigor of modern full-stack engineering.
+
+- 🏛️ **Academic Focus**: 4th-Year Scholar in Web Development specializing in interactive systems, human-centered UI/UX, and distributed backends.
+- 🎨 **Aesthetic Discipline**: Solid dusty lilac as the primary ground, deep forest green vellum as the second, claret burgundy velvet as the third, and delicate gilded gold accents.
+- 📐 **Engineering Tenet**: Clean code, modular architectures, accessible interfaces, and zero visual clutter.
+
+---
+
+### 🏛️ The Four Ateliers • Technical Compendium
+
+#### I. Front-End & Curatorial UI/UX *(Primary • Dusty Lilac)*
+<p align="left">
+  <img src="https://img.shields.io/badge/TypeScript-BFA8E0?style=for-the-badge&logo=typescript&logoColor=150D1E" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/JavaScript-BFA8E0?style=for-the-badge&logo=javascript&logoColor=150D1E" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/React-BFA8E0?style=for-the-badge&logo=react&logoColor=150D1E" alt="React" />
+  <img src="https://img.shields.io/badge/Vue.js-BFA8E0?style=for-the-badge&logo=vuedotjs&logoColor=150D1E" alt="Vue.js" />
+  <img src="https://img.shields.io/badge/Next.js-BFA8E0?style=for-the-badge&logo=nextdotjs&logoColor=150D1E" alt="Next.js" />
+  <img src="https://img.shields.io/badge/Angular-BFA8E0?style=for-the-badge&logo=angular&logoColor=150D1E" alt="Angular" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-BFA8E0?style=for-the-badge&logo=tailwindcss&logoColor=150D1E" alt="Tailwind CSS" />
+  <img src="https://img.shields.io/badge/HTML5-BFA8E0?style=for-the-badge&logo=html5&logoColor=150D1E" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-BFA8E0?style=for-the-badge&logo=css3&logoColor=150D1E" alt="CSS3" />
+  <img src="https://img.shields.io/badge/Figma-BFA8E0?style=for-the-badge&logo=figma&logoColor=150D1E" alt="Figma" />
+</p>
+
+#### II. Back-End Systems & Logic *(Secondary • Forest Green)*
+<p align="left">
+  <img src="https://img.shields.io/badge/Node.js-1B4332?style=for-the-badge&logo=nodedotjs&logoColor=F3E5AB" alt="Node.js" />
+  <img src="https://img.shields.io/badge/Express-1B4332?style=for-the-badge&logo=express&logoColor=F3E5AB" alt="Express" />
+  <img src="https://img.shields.io/badge/Python-1B4332?style=for-the-badge&logo=python&logoColor=F3E5AB" alt="Python" />
+  <img src="https://img.shields.io/badge/FastAPI-1B4332?style=for-the-badge&logo=fastapi&logoColor=F3E5AB" alt="FastAPI" />
+  <img src="https://img.shields.io/badge/PHP-1B4332?style=for-the-badge&logo=php&logoColor=F3E5AB" alt="PHP" />
+  <img src="https://img.shields.io/badge/Java-1B4332?style=for-the-badge&logo=openjdk&logoColor=F3E5AB" alt="Java" />
+  <img src="https://img.shields.io/badge/Flutter-1B4332?style=for-the-badge&logo=flutter&logoColor=F3E5AB" alt="Flutter" />
+  <img src="https://img.shields.io/badge/NumPy-1B4332?style=for-the-badge&logo=numpy&logoColor=F3E5AB" alt="NumPy" />
+  <img src="https://img.shields.io/badge/pandas-1B4332?style=for-the-badge&logo=pandas&logoColor=F3E5AB" alt="pandas" />
+</p>
+
+#### III. Data Archives & Infrastructure *(Tertiary • Claret Burgundy)*
+<p align="left">
+  <img src="https://img.shields.io/badge/MySQL-5C1424?style=for-the-badge&logo=mysql&logoColor=F3E5AB" alt="MySQL" />
+  <img src="https://img.shields.io/badge/PostgreSQL-5C1424?style=for-the-badge&logo=postgresql&logoColor=F3E5AB" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/MongoDB-5C1424?style=for-the-badge&logo=mongodb&logoColor=F3E5AB" alt="MongoDB" />
+  <img src="https://img.shields.io/badge/AWS-5C1424?style=for-the-badge&logo=amazonwebservices&logoColor=F3E5AB" alt="AWS" />
+  <img src="https://img.shields.io/badge/Vercel-5C1424?style=for-the-badge&logo=vercel&logoColor=F3E5AB" alt="Vercel" />
+  <img src="https://img.shields.io/badge/Netlify-5C1424?style=for-the-badge&logo=netlify&logoColor=F3E5AB" alt="Netlify" />
+  <img src="https://img.shields.io/badge/Git-5C1424?style=for-the-badge&logo=git&logoColor=F3E5AB" alt="Git" />
+  <img src="https://img.shields.io/badge/Linux-5C1424?style=for-the-badge&logo=linux&logoColor=F3E5AB" alt="Linux" />
+  <img src="https://img.shields.io/badge/VS_Code-5C1424?style=for-the-badge&logo=vscodium&logoColor=F3E5AB" alt="VS Code" />
+</p>
+
+---
+
+### 📊 Archival Ledger • GitHub Activity
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats-five-sigma-99.vercel.app/api?username=ElishaClaireGania&show_icons=true&bg_color=150D1E&title_color=BFA8E0&text_color=EDE7F6&icon_color=D4AF37&border_color=BFA8E0&count_private=true" alt="Elisha's GitHub Stats" />
+  <img height="165" src="https://github-readme-stats-five-sigma-99.vercel.app/api/top-langs/?username=ElishaClaireGania&layout=compact&bg_color=150D1E&title_color=BFA8E0&text_color=EDE7F6&border_color=BFA8E0&langs_count=8" alt="Top Languages" />
+</p>
+
+<p align="center">
+  <img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=ElishaClaireGania&bg_color=150D1E&color=BFA8E0&line=BFA8E0&point=D4AF37&area=false&hide_border=false&border_color=BFA8E0" alt="Contribution Graph" />
+</p>
+
+---
+
+### 📜 Scholarly Inscription
+
+<p align="center">
+  <i>“A screen need not be a cold glass barrier; when treated with the reverence of hand-laid vellum and botanical lilac, it becomes a doorway into quiet contemplation.”</i>
+  <br />
+  — <b>Elisha Claire Gania</b> • <i>Anno MMXXVI</i>
+</p>
+
+---
+
+<p align="center">
+  <sub>✦ Inscribed in the Royal Ledger • Curated by <a href="https://github.com/ElishaClaireGania">ElishaClaireGania</a> ✦</sub>
+</p>
