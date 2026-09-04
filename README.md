@@ -30,7 +30,6 @@ I am a **4th-year Web Development student**, **UI/UX Designer**, and **Full-Stac
 <p align="left">
   <img src="https://img.shields.io/badge/TypeScript-BFA8E0?style=for-the-badge&logo=typescript&logoColor=150D1E" alt="TypeScript" />
   <img src="https://img.shields.io/badge/JavaScript-BFA8E0?style=for-the-badge&logo=javascript&logoColor=150D1E" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/React-BFA8E0?style=for-the-badge&logo=react&logoColor=150D1E" alt="React" />
   <img src="https://img.shields.io/badge/Vue.js-BFA8E0?style=for-the-badge&logo=vuedotjs&logoColor=150D1E" alt="Vue.js" />
   <img src="https://img.shields.io/badge/Angular-BFA8E0?style=for-the-badge&logo=angular&logoColor=150D1E" alt="Angular" />
   <img src="https://img.shields.io/badge/Tailwind_CSS-BFA8E0?style=for-the-badge&logo=tailwindcss&logoColor=150D1E" alt="Tailwind CSS" />
