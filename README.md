@@ -84,9 +84,9 @@ I am a **4th-year Web Development student**, **UI/UX Designer**, and **Full-Stac
 ### 📜 Scholarly Inscription
 
 <p align="center">
-  <i>“A screen need not be a cold glass barrier; when treated with the reverence of hand-laid vellum and botanical lilac, it becomes a doorway into quiet contemplation.”</i>
+  <i>“The most dangerous phrase in the language is, 'We've always done it this way.'”</i>
   <br />
-  — <b>Elisha Claire Gania</b> • <i>Anno MMXXVI</i>
+  — <b>Grace Hopper</b>
 </p>
 
 ---
