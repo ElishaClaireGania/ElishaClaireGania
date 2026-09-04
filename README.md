@@ -5,7 +5,9 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Cinzel&weight=600&size=20&pause=1000&color=BFA8E0&center=true&vCenter=true&width=700&height=40&lines=UI%2FUX%20Designer%20%26%20Full-Stack%20Developer;Designing%20Intuitive%20Interfaces%20%26%20Seamless%20Systems;4th-Year%20Web%20Development%20Student" alt="Typing headlines" />
+  <a href="mailto:elishaclairegania@gmail.com"><img src="https://img.shields.io/badge/Email-elishaclairegania%40gmail.com-BFA8E0?style=for-the-badge&logo=gmail&logoColor=150D1E&labelColor=150D1E" alt="Email" /></a>
+  <a href="https://www.linkedin.com/in/elisha-claire-gania"><img src="https://img.shields.io/badge/LinkedIn-Elisha%20Claire%20Gania-BFA8E0?style=for-the-badge&logo=linkedin&logoColor=150D1E&labelColor=150D1E" alt="LinkedIn" /></a>
+  <a href="https://github.com/ElishaClaireGania"><img src="https://img.shields.io/badge/GitHub-ElishaClaireGania-BFA8E0?style=for-the-badge&logo=github&logoColor=150D1E&labelColor=150D1E" alt="GitHub" /></a>
 </p>
 
 <p align="center">
@@ -19,22 +21,12 @@
 
 I am a **4th-year Web Development student**, **UI/UX Designer**, and **Full-Stack Developer** dedicated to building resilient, high-craft web systems. My design philosophy bridges with the architectural rigor of modern full-stack engineering.
 
-<p align="left">
-  <img src="https://img.shields.io/badge/-BFA8E0?style=for-the-badge&logo=academic-cap&logoColor=150D1E" alt="Academic Focus" />
-  <b>Academic Focus:</b> 4th-Year Scholar in Web Development specializing in interactive systems, human-centered UI/UX, and distributed backends.
-</p>
-
-<p align="left">
-  <img src="https://img.shields.io/badge/-BFA8E0?style=for-the-badge&logo=codefactor&logoColor=150D1E" alt="Engineering Tenet" />
-  <b>Engineering Tenet:</b> Clean code, modular architectures, accessible interfaces, and zero visual clutter.
-</p>
+- 🏛️ **Academic Focus**: 4th-Year Scholar in Web Development specializing in interactive systems, human-centered UI/UX, and distributed backends.
+- 📐 **Engineering Tenet**: Clean code, modular architectures, accessible interfaces, and zero visual clutter.
 
 ---
 
-<p align="left">
-  <img src="https://img.shields.io/badge/Ateliers-BFA8E0?style=for-the-badge&logo=prospectus&logoColor=150D1E" alt="Ateliers" />
-  <b>The Four Ateliers • Technical Compendium</b>
-</p>
+### 🏛️ The Four Ateliers • Technical Compendium
 
 #### I. Front-End & Curatorial UI/UX 
 <p align="left">
