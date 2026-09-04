@@ -24,7 +24,7 @@ I am a **4th-year Web Development student**, **UI/UX Designer**, and **Full-Stac
 
 ---
 
-### <img src="https://raw.githubusercontent.com/ElishaClaireGania/ElishaClaireGania/main/icon-temple.svg" width="22" height="22" align="center" /> The Four Ateliers • Technical Compendium
+### ⚜ The Four Ateliers • Technical Compendium
 
 #### I. Front-End & Curatorial UI/UX 
 <p align="left">
@@ -60,12 +60,12 @@ I am a **4th-year Web Development student**, **UI/UX Designer**, and **Full-Stac
   <img src="https://img.shields.io/badge/Netlify-5C1424?style=for-the-badge&logo=netlify&logoColor=F3E5AB" alt="Netlify" />
   <img src="https://img.shields.io/badge/Git-5C1424?style=for-the-badge&logo=git&logoColor=F3E5AB" alt="Git" />
   <img src="https://img.shields.io/badge/Linux-5C1424?style=for-the-badge&logo=linux&logoColor=F3E5AB" alt="Linux" />
-  <img src="https://img.shields.io/badge/VS_Code-5C1424?style=for-the-badge&logo=vscodium&logoColor=F3E5AB" alt="VS Code" />
+  <img src="https://img.shields.io/badge/VS_Code-5C1424?style=for-the-badge&logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0iI0YzRTVBQiI+PHBhdGggZD0iTTIzLjE1IDIuNTg3TDE4LjIxLjIxYTEuNDk0IDEuNDk0IDAgMCAwLTEuNzA1LjI5bC05LjQ2IDguNjMtNC4xMi0zLjEyOGEuOTk5Ljk5OSAwIDAgMC0xLjI3Ni4wNTdMLjMyNyA3LjI2MUExIDEgMCAwIDAgLjMyNiA4Ljc0TDMuODk5IDEyIC4zMjYgMTUuMjZhMSAxIDAgMCAwIC4wMDEgMS40NzlMMS42NSAxNy45NGEuOTk5Ljk5OSAwIDAgMCAxLjI3Ni4wNTdsNC4xMi0zLjEyOCA5LjQ2IDguNjNhMS40OTIgMS40OTIgMCAwIDAgMS43MDQuMjlsNC45NDItMi4zNzdBMS41IDEuNSAwIDAgMCAyNCAyMC4wNlYzLjkzOWExLjUgMS41IDAgMCAwLS44NS0xLjM1MnptLTUuMTQ2IDE0Ljg2MUwxMC44MjYgMTJsNy4xNzgtNS40NDh2MTAuODk2eiIvPjwvc3ZnPg==" alt="VS Code" />
 </p>
 
 ---
 
-### 📊 Archival Ledger • GitHub Activity
+### ◈ Archival Ledger • GitHub Activity
 
 <p align="center">
   <img height="170" src="https://github-readme-stats-five-sigma-99.vercel.app/api?username=ElishaClaireGania&show_icons=true&bg_color=150D1E&title_color=BFA8E0&text_color=EDE7F6&icon_color=D4AF37&border_color=BFA8E0&count_private=true" alt="Elisha's GitHub Stats" />
@@ -78,7 +78,7 @@ I am a **4th-year Web Development student**, **UI/UX Designer**, and **Full-Stac
 
 ---
 
-### 📜 Scholarly Inscription
+### ✒ Scholarly Inscription
 
 <p align="center">
   <i>“The most dangerous phrase in the language is, 'We've always done it this way.'”</i>
