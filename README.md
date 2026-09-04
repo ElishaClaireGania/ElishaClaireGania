@@ -10,7 +10,7 @@
 
 <p align="center">
   <a href="mailto:elishaclairegania@gmail.com"><img src="https://img.shields.io/badge/Email-elishaclairegania%40gmail.com-BFA8E0?style=for-the-badge&logo=gmail&logoColor=D4AF37&labelColor=150D1E" alt="Email" /></a>
-  <a href="https://www.linkedin.com/in/elisha-claire-gania"><img src="https://img.shields.io/badge/LinkedIn-Elisha%20Claire%20Gania-BFA8E0?style=for-the-badge&logo=linkedin&logoColor=D4AF37&labelColor=150D1E" alt="LinkedIn" /></a>
+  <a href="https://www.linkedin.com/in/elisha-claire-gania"><img src="https://img.shields.io/badge/LinkedIn-Elisha%20Claire%20Gania-BFA8E0?style=for-the-badge&labelColor=150D1E&logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0iI0Q0QUYzNyI+PHBhdGggZD0iTTE5IDBoLTE0Yy0yLjc2MSAwLTUgMi4yMzktNSA1djE0YzAgMi43NjEgMi4yMzkgNSA1IDVoMTRjMi43NjIgMCA1LTIuMjM5IDUtNXYtMTRjMC0yLjc2MS0yLjIzOC01LTUtNXptLTExIDE5aC0zdi0xMWgzdjExem0tMS41LTEyLjI2OGMtLjk2NiAwLTEuNzUtLjc5LTEuNzUtMS43NjRzLjc4NC0xLjc2NCAxLjc1LTEuNzY0IDEuNzUuNzkgMS43NSAxLjc2NC0uNzgzIDEuNzY0LTEuNzUgMS43NjR6bTEzLjUgMTIuMjY4aC0zdi01LjYwNGMwLTMuMzY4LTQtMy4xMTMtNCAwdjUuNjA0aC0zdi0xMWgzdjEuNzY1YzEuMzk2LTIuNTg2IDctMi43NzcgNyAyLjQ3NnY2Ljc1OXoiLz48L3N2Zz4=" alt="LinkedIn" /></a>
   <a href="https://github.com/ElishaClaireGania"><img src="https://img.shields.io/badge/GitHub-ElishaClaireGania-BFA8E0?style=for-the-badge&logo=github&logoColor=D4AF37&labelColor=150D1E" alt="GitHub" /></a>
 </p>
 
