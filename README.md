@@ -9,9 +9,9 @@
 </p>
 
 <p align="center">
-  <a href="mailto:elishaclairegania@gmail.com"><img src="https://img.shields.io/badge/Email-elishaclairegania%40gmail.com-BFA8E0?style=for-the-badge&logo=gmail&logoColor=150D1E&labelColor=150D1E" alt="Email" /></a>
-  <a href="https://www.linkedin.com/in/elisha-claire-gania"><img src="https://img.shields.io/badge/LinkedIn-Elisha%20Claire%20Gania-BFA8E0?style=for-the-badge&logo=linkedin&logoColor=150D1E&labelColor=150D1E" alt="LinkedIn" /></a>
-  <a href="https://github.com/ElishaClaireGania"><img src="https://img.shields.io/badge/GitHub-ElishaClaireGania-BFA8E0?style=for-the-badge&logo=github&logoColor=150D1E&labelColor=150D1E" alt="GitHub" /></a>
+  <a href="mailto:elishaclairegania@gmail.com"><img src="https://img.shields.io/badge/-BFA8E0?style=for-the-badge&logo=gmail&logoColor=150D1E&labelColor=150D1E" alt="Email" /></a>
+  <a href="https://www.linkedin.com/in/elisha-claire-gania"><img src="https://img.shields.io/badge/-BFA8E0?style=for-the-badge&logo=linkedin&logoColor=150D1E&labelColor=150D1E" alt="LinkedIn" /></a>
+  <a href="https://github.com/ElishaClaireGania"><img src="https://img.shields.io/badge/-BFA8E0?style=for-the-badge&logo=github&logoColor=150D1E&labelColor=150D1E" alt="GitHub" /></a>
 </p>
 
 ---
@@ -19,12 +19,22 @@
 
 I am a **4th-year Web Development student**, **UI/UX Designer**, and **Full-Stack Developer** dedicated to building resilient, high-craft web systems. My design philosophy bridges with the architectural rigor of modern full-stack engineering.
 
-- 🏛️ **Academic Focus**: 4th-Year Scholar in Web Development specializing in interactive systems, human-centered UI/UX, and distributed backends.
-- 📐 **Engineering Tenet**: Clean code, modular architectures, accessible interfaces, and zero visual clutter.
+<p align="left">
+  <img src="https://img.shields.io/badge/-BFA8E0?style=for-the-badge&logo=academic-cap&logoColor=150D1E" alt="Academic Focus" />
+  <b>Academic Focus:</b> 4th-Year Scholar in Web Development specializing in interactive systems, human-centered UI/UX, and distributed backends.
+</p>
+
+<p align="left">
+  <img src="https://img.shields.io/badge/-BFA8E0?style=for-the-badge&logo=codefactor&logoColor=150D1E" alt="Engineering Tenet" />
+  <b>Engineering Tenet:</b> Clean code, modular architectures, accessible interfaces, and zero visual clutter.
+</p>
 
 ---
 
-### 🏛️ The Four Ateliers • Technical Compendium
+<p align="left">
+  <img src="https://img.shields.io/badge/Ateliers-BFA8E0?style=for-the-badge&logo=prospectus&logoColor=150D1E" alt="Ateliers" />
+  <b>The Four Ateliers • Technical Compendium</b>
+</p>
 
 #### I. Front-End & Curatorial UI/UX 
 <p align="left">
