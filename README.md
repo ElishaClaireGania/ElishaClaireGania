@@ -9,9 +9,9 @@
 </p>
 
 <p align="center">
-  <a href="mailto:elishaclairegania@gmail.com"><img src="https://img.shields.io/badge/Email-elishaclairegania%40gmail.com-BFA8E0?style=for-the-badge&logo=gmail&logoColor=150D1E&labelColor=150D1E" alt="Email" /></a>
-  <a href="https://www.linkedin.com/in/elisha-claire-gania"><img src="https://img.shields.io/badge/LinkedIn-Elisha%20Claire%20Gania-BFA8E0?style=for-the-badge&logo=linkedin&logoColor=150D1E&labelColor=150D1E" alt="LinkedIn" /></a>
-  <a href="https://github.com/ElishaClaireGania"><img src="https://img.shields.io/badge/GitHub-ElishaClaireGania-BFA8E0?style=for-the-badge&logo=github&logoColor=150D1E&labelColor=150D1E" alt="GitHub" /></a>
+  <a href="mailto:elishaclairegania@gmail.com"><img src="https://img.shields.io/badge/Email-elishaclairegania%40gmail.com-BFA8E0?style=for-the-badge&logo=gmail&logoColor=D4AF37&labelColor=150D1E" alt="Email" /></a>
+  <a href="https://www.linkedin.com/in/elisha-claire-gania"><img src="https://img.shields.io/badge/LinkedIn-Elisha%20Claire%20Gania-BFA8E0?style=for-the-badge&logo=linkedin&logoColor=D4AF37&labelColor=150D1E" alt="LinkedIn" /></a>
+  <a href="https://github.com/ElishaClaireGania"><img src="https://img.shields.io/badge/GitHub-ElishaClaireGania-BFA8E0?style=for-the-badge&logo=github&logoColor=D4AF37&labelColor=150D1E" alt="GitHub" /></a>
 </p>
 
 ---
