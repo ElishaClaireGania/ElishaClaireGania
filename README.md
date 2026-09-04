@@ -32,7 +32,6 @@ I am a **4th-year Web Development student**, **UI/UX Designer**, and **Full-Stac
   <img src="https://img.shields.io/badge/JavaScript-BFA8E0?style=for-the-badge&logo=javascript&logoColor=150D1E" alt="JavaScript" />
   <img src="https://img.shields.io/badge/React-BFA8E0?style=for-the-badge&logo=react&logoColor=150D1E" alt="React" />
   <img src="https://img.shields.io/badge/Vue.js-BFA8E0?style=for-the-badge&logo=vuedotjs&logoColor=150D1E" alt="Vue.js" />
-  <img src="https://img.shields.io/badge/Next.js-BFA8E0?style=for-the-badge&logo=nextdotjs&logoColor=150D1E" alt="Next.js" />
   <img src="https://img.shields.io/badge/Angular-BFA8E0?style=for-the-badge&logo=angular&logoColor=150D1E" alt="Angular" />
   <img src="https://img.shields.io/badge/Tailwind_CSS-BFA8E0?style=for-the-badge&logo=tailwindcss&logoColor=150D1E" alt="Tailwind CSS" />
   <img src="https://img.shields.io/badge/HTML5-BFA8E0?style=for-the-badge&logo=html5&logoColor=150D1E" alt="HTML5" />
@@ -56,7 +55,6 @@ I am a **4th-year Web Development student**, **UI/UX Designer**, and **Full-Stac
 #### III. Data Archives & Infrastructure
 <p align="left">
   <img src="https://img.shields.io/badge/MySQL-5C1424?style=for-the-badge&logo=mysql&logoColor=F3E5AB" alt="MySQL" />
-  <img src="https://img.shields.io/badge/PostgreSQL-5C1424?style=for-the-badge&logo=postgresql&logoColor=F3E5AB" alt="PostgreSQL" />
   <img src="https://img.shields.io/badge/MongoDB-5C1424?style=for-the-badge&logo=mongodb&logoColor=F3E5AB" alt="MongoDB" />
   <img src="https://img.shields.io/badge/AWS-5C1424?style=for-the-badge&logo=amazonwebservices&logoColor=F3E5AB" alt="AWS" />
   <img src="https://img.shields.io/badge/Vercel-5C1424?style=for-the-badge&logo=vercel&logoColor=F3E5AB" alt="Vercel" />
