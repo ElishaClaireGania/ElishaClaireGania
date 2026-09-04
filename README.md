@@ -78,12 +78,12 @@ I am a **4th-year Web Development student**, **UI/UX Designer**, and **Full-Stac
 
 ---
 
-### 📜 Scholarly Inscription
+### 📜 Wisdom Inscription
 
 <p align="center">
-  <i>“The most dangerous phrase in the language is, 'We've always done it this way.'”</i>
+  <i>“because, if you confess with your mouth that Jesus is Lord and believe in your heart that God raised him from the dead, you will be saved.”</i>
   <br />
-  — <b>Grace Hopper</b>
+  — <b>Romans 10:9 (ESV)</b>
 </p>
 
 ---
