@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://github.com/ElishaClaireGania">
-    <img src="https://capsule-render.vercel.app/api?type=rect&color=150D1E&stroke=BFA8E0&strokeWidth=2&fontColor=F3E5AB&fontSize=42&fontAlignY=45&height=140&width=800&text=✦%20ELISHA%20CLAIRE%20GANIA%20✦&desc=UI%2FUX%20Designer%20•%20Full-Stack%20Developer%20•%204th-Year%20Web%20Dev%20Scholar&descSize=16&descAlignY=70&descColor=BFA8E0" alt="Elisha Claire Gania Header" />
+    <img src="https://capsule-render.vercel.app/api?type=rect&color=150D1E&stroke=BFA8E0&strokeWidth=2&fontColor=F3E5AB&fontSize=42&fontAlignY=50&height=140&width=800&text=✦%20ELISHA%20CLAIRE%20GANIA%20✦" alt="Elisha Claire Gania Header" />
   </a>
 </p>
 
