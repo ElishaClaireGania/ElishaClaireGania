@@ -16,9 +16,6 @@
 
 ---
 
-### 📖 Ex Libris • About The Scholar
-
-> *“Ars Longa, Vita Brevis — Craft is long, life is brief.”*
 
 I am a **4th-year Web Development student**, **UI/UX Designer**, and **Full-Stack Developer** dedicated to building resilient, high-craft web systems. My design philosophy bridges the quiet sensory warmth of **vintage English libraries, classical marble statuary, and dusty lilac silks** with the architectural rigor of modern full-stack engineering.
 
