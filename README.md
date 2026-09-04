@@ -71,12 +71,12 @@ I am a **4th-year Web Development student**, **UI/UX Designer**, and **Full-Stac
 ### 📊 Archival Ledger • GitHub Activity
 
 <p align="center">
-  <img height="200" src="https://github-readme-stats-five-sigma-99.vercel.app/api?username=ElishaClaireGania&show_icons=true&bg_color=150D1E&title_color=BFA8E0&text_color=EDE7F6&icon_color=D4AF37&border_color=BFA8E0&count_private=true" alt="Elisha's GitHub Stats" />
-  <img height="200" src="https://github-readme-stats-five-sigma-99.vercel.app/api/top-langs/?username=ElishaClaireGania&layout=compact&bg_color=150D1E&title_color=BFA8E0&text_color=EDE7F6&border_color=BFA8E0&langs_count=8" alt="Top Languages" />
+  <img height="170" src="https://github-readme-stats-five-sigma-99.vercel.app/api?username=ElishaClaireGania&show_icons=true&bg_color=150D1E&title_color=BFA8E0&text_color=EDE7F6&icon_color=D4AF37&border_color=BFA8E0&count_private=true" alt="Elisha's GitHub Stats" />
+  <img height="170" src="https://github-readme-stats-five-sigma-99.vercel.app/api/top-langs/?username=ElishaClaireGania&layout=compact&bg_color=150D1E&title_color=BFA8E0&text_color=EDE7F6&border_color=BFA8E0&langs_count=8" alt="Top Languages" />
 </p>
 
 <p align="center">
-  <img width="76%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ElishaClaireGania&hide_title=true&bg_color=150d1e&title_color=bfa8e0&text_color=ede7f6&border_color=bfa8e0&icon_color=d4af37&chart_color=bfa8e0" alt="Contribution Summary" />
+  <img width="80%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ElishaClaireGania&hide_title=true&bg_color=150d1e&title_color=bfa8e0&text_color=ede7f6&border_color=bfa8e0&icon_color=d4af37&chart_color=bfa8e0" alt="Contribution Summary" />
 </p>
 
 ---
