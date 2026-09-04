@@ -1,10 +1,6 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/ElishaClaireGania/ElishaClaireGania/main/pill-code386.svg" alt="Code: 386" />
-</p>
-
-<p align="center">
   <a href="https://github.com/ElishaClaireGania">
-    <img width="100%" src="https://raw.githubusercontent.com/ElishaClaireGania/ElishaClaireGania/main/header-banner-pill.svg" alt="✦ ELISHA CLAIRE ANGELES GANIA ✦ • Code: 386" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=150D1E&stroke=BFA8E0&strokeWidth=2&fontColor=F3E5AB&fontSize=42&fontAlignY=50&height=140&width=800&text=✦%20ELISHA%20CLAIRE%20ANGELES%20GANIA%20✦" alt="Elisha Claire Gania Angeles Header" />
   </a>
 </p>
 
