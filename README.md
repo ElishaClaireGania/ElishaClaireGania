@@ -65,7 +65,7 @@ I am a **4th-year Web Development student**, **UI/UX Designer**, and **Full-Stac
 
 ---
 
-### ◈ Archival Ledger • GitHub Activity
+### ✦ Archival Ledger • GitHub Activity
 
 <p align="center">
   <img height="170" src="https://github-readme-stats-five-sigma-99.vercel.app/api?username=ElishaClaireGania&show_icons=true&bg_color=150D1E&title_color=BFA8E0&text_color=EDE7F6&icon_color=D4AF37&border_color=BFA8E0&count_private=true" alt="Elisha's GitHub Stats" />
