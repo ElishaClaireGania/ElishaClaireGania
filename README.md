@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Cinzel&weight=600&size=20&pause=1000&color=BFA8E0&center=true&vCenter=true&width=700&height=40&lines=Ex+Libris+%E2%80%A2+Where+Old+English+Libraries+Meet+Modern+Web+Systems;4th-Year+Web+Development+Scholar+%26+Digital+Curator;Balancing+Dusty+Lilac+Silk%2C+Forest+Vellum%2C+%26+Full-Stack+Code" alt="Typing headlines" />
+  <img src="https://readme-typing-svg.demolab.com?font=Cinzel&weight=600&size=20&pause=1000&color=BFA8E0&center=true&vCenter=true&width=700&height=40&lines=UI%2FUX%20Designer%20%26%20Full-Stack%20Developer;Designing%20Intuitive%20Interfaces%20%26%20Seamless%20Systems;4th-Year%20Web%20Development%20Student" alt="Typing headlines" />
 </p>
 
 <p align="center">
@@ -17,7 +17,7 @@
 ---
 
 
-I am a **4th-year Web Development student**, **UI/UX Designer**, and **Full-Stack Developer** dedicated to building resilient, high-craft web systems. My design philosophy bridges the quiet sensory warmth of **vintage English libraries, classical marble statuary, and dusty lilac silks** with the architectural rigor of modern full-stack engineering.
+I am a **4th-year Web Development student**, **UI/UX Designer**, and **Full-Stack Developer** dedicated to building resilient, high-craft web systems. My design philosophy bridges with the architectural rigor of modern full-stack engineering.
 
 - 🏛️ **Academic Focus**: 4th-Year Scholar in Web Development specializing in interactive systems, human-centered UI/UX, and distributed backends.
 - 📐 **Engineering Tenet**: Clean code, modular architectures, accessible interfaces, and zero visual clutter.
@@ -92,5 +92,5 @@ I am a **4th-year Web Development student**, **UI/UX Designer**, and **Full-Stac
 ---
 
 <p align="center">
-  <sub>✦ Inscribed in the Royal Ledger • Curated by <a href="https://github.com/ElishaClaireGania">ElishaClaireGania</a> ✦</sub>
+  <sub>✦ Curated by <a href="https://github.com/ElishaClaireGania">ElishaClaireGania</a> ✦</sub>
 </p>
