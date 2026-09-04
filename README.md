@@ -76,7 +76,7 @@ I am a **4th-year Web Development student**, **UI/UX Designer**, and **Full-Stac
 </p>
 
 <p align="center">
-  <img width="98%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ElishaClaireGania&theme=dracula" alt="Contribution Summary" />
+  <img width="98%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ElishaClaireGania&theme=night_owl" alt="Contribution Summary" />
 </p>
 
 ---
