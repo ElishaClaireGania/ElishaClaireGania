@@ -20,14 +20,13 @@
 I am a **4th-year Web Development student**, **UI/UX Designer**, and **Full-Stack Developer** dedicated to building resilient, high-craft web systems. My design philosophy bridges the quiet sensory warmth of **vintage English libraries, classical marble statuary, and dusty lilac silks** with the architectural rigor of modern full-stack engineering.
 
 - 🏛️ **Academic Focus**: 4th-Year Scholar in Web Development specializing in interactive systems, human-centered UI/UX, and distributed backends.
-- 🎨 **Aesthetic Discipline**: Solid dusty lilac as the primary ground, deep forest green vellum as the second, claret burgundy velvet as the third, and delicate gilded gold accents.
 - 📐 **Engineering Tenet**: Clean code, modular architectures, accessible interfaces, and zero visual clutter.
 
 ---
 
 ### 🏛️ The Four Ateliers • Technical Compendium
 
-#### I. Front-End & Curatorial UI/UX *(Primary • Dusty Lilac)*
+#### I. Front-End & Curatorial UI/UX 
 <p align="left">
   <img src="https://img.shields.io/badge/TypeScript-BFA8E0?style=for-the-badge&logo=typescript&logoColor=150D1E" alt="TypeScript" />
   <img src="https://img.shields.io/badge/JavaScript-BFA8E0?style=for-the-badge&logo=javascript&logoColor=150D1E" alt="JavaScript" />
@@ -41,7 +40,7 @@ I am a **4th-year Web Development student**, **UI/UX Designer**, and **Full-Stac
   <img src="https://img.shields.io/badge/Figma-BFA8E0?style=for-the-badge&logo=figma&logoColor=150D1E" alt="Figma" />
 </p>
 
-#### II. Back-End Systems & Logic *(Secondary • Forest Green)*
+#### II. Back-End Systems & Logic 
 <p align="left">
   <img src="https://img.shields.io/badge/Node.js-1B4332?style=for-the-badge&logo=nodedotjs&logoColor=F3E5AB" alt="Node.js" />
   <img src="https://img.shields.io/badge/Express-1B4332?style=for-the-badge&logo=express&logoColor=F3E5AB" alt="Express" />
@@ -54,7 +53,7 @@ I am a **4th-year Web Development student**, **UI/UX Designer**, and **Full-Stac
   <img src="https://img.shields.io/badge/pandas-1B4332?style=for-the-badge&logo=pandas&logoColor=F3E5AB" alt="pandas" />
 </p>
 
-#### III. Data Archives & Infrastructure *(Tertiary • Claret Burgundy)*
+#### III. Data Archives & Infrastructure
 <p align="left">
   <img src="https://img.shields.io/badge/MySQL-5C1424?style=for-the-badge&logo=mysql&logoColor=F3E5AB" alt="MySQL" />
   <img src="https://img.shields.io/badge/PostgreSQL-5C1424?style=for-the-badge&logo=postgresql&logoColor=F3E5AB" alt="PostgreSQL" />
