@@ -76,7 +76,7 @@ I am a **4th-year Web Development student**, **UI/UX Designer**, and **Full-Stac
 </p>
 
 <p align="center">
-  <img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=ElishaClaireGania&bg_color=150D1E&color=BFA8E0&line=BFA8E0&point=D4AF37&area=true&hide_border=false&border_color=BFA8E0" alt="Contribution Graph" />
+  <img width="98%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ElishaClaireGania&theme=dracula" alt="Contribution Summary" />
 </p>
 
 ---
