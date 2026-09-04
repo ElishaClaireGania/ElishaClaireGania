@@ -78,7 +78,7 @@ I am a **4th-year Web Development student**, **UI/UX Designer**, and **Full-Stac
 
 ---
 
-### ✒ Scholarly Inscription
+### 📜 Scholarly Inscription
 
 <p align="center">
   <i>“The most dangerous phrase in the language is, 'We've always done it this way.'”</i>
