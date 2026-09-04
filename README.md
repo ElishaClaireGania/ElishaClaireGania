@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://github.com/ElishaClaireGania">
-    <img src="https://capsule-render.vercel.app/api?type=rect&color=150D1E&stroke=BFA8E0&strokeWidth=2&fontColor=F3E5AB&fontSize=16&fontAlignY=36&height=160&width=800&text=🪶%20Code:386&desc=✦%20ELISHA%20CLAIRE%20Angeles%20GANIA%20✦&descSize=36&descAlignY=66&animation=none" alt="Code: 386 • Elisha Claire Angeles Gania" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=150D1E&stroke=BFA8E0&strokeWidth=2&fontColor=F3E5AB&fontSize=36&fontAlignY=40&height=160&width=800&text=✦%20ELISHA%20CLAIRE%20ANGELES%20GANIA%20✦&desc=🪶%20CODE:386&descSize=15&descAlignY=68&descColor=BFA8E0" alt="Elisha Claire Angeles Gania Header" />
   </a>
 </p>
 
