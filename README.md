@@ -62,7 +62,7 @@
 ### 📈 Contribution Graph
 
 <p align="center">
-  <img width="100%" src="https://raw.githubusercontent.com/ElishaClaireGania/ElishaClaireGania/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=ElishaClaireGania&bg_color=11001B&color=7760B0&line=7760B0&point=E3DBEE&area=true&hide_border=true" alt="activity graph" />
 </p>
 
 ### 💭 Dev Quote
