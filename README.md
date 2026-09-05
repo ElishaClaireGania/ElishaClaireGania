@@ -19,7 +19,7 @@
 I’m a 4th‑year Web Development student, UI/UX designer, and full‑stack developer passionate about building resilient, high‑quality web systems. My approach blends thoughtful design with the structural discipline of modern engineering.
 
 - **Academic Focus**: 4th‑year Web Development student specializing in interactive systems, human‑centered UI/UX, and scalable back‑end solutions.
--**Engineering Principles**: Clean code, modular architecture, accessible design, and interfaces free of visual clutter.
+- **Engineering Principles**: Clean code, modular architecture, accessible design, and interfaces free of visual clutter.
 
 ---
 
