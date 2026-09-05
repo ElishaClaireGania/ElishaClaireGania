@@ -5,8 +5,9 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Cinzel&weight=600&size=20&pause=1000&color=BFA8E0&center=true&vCenter=true&width=700&height=40&lines=UI%2FUX%20Designer%20%26%20Full-Stack%20Developer;Designing%20Intuitive%20Interfaces%20%26%20Seamless%20Systems;4th-Year%20Web%20Development%20Student" alt="Typing headlines" />
+  <img src="https://readme-typing-svg.demolab.com?font=Cinzel&weight=600&size=20&pause=1000&color=BFA8E0&center=true&vCenter=true&width=700&height=40&lines=4th-Year%20Web%20Development%20Student;UI%2FUX%20Designer%20%26%20Full-Stack%20Developer;Designing%20Intuitive%20Interfaces%20%26%20Seamless%20Systems" alt="Typing headlines" />
 </p>
+
 
 <p align="center">
   <a href="mailto:elishaclairegania@gmail.com"><img src="https://img.shields.io/badge/Email-elishaclairegania%40gmail.com-BFA8E0?style=for-the-badge&logo=gmail&logoColor=D4AF37&labelColor=150D1E" alt="Email" /></a>
