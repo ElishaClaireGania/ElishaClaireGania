@@ -24,9 +24,9 @@ I am a **4th-year Web Development student**, **UI/UX Designer**, and **Full-Stac
 
 ---
 
-### ⚜ The Four Ateliers • Technical Compendium
+### ⚜ Technical Compendium
 
-#### I. Front-End & Curatorial UI/UX 
+#### I. Front-End & UI/UX 
 <p align="left">
   <img src="https://img.shields.io/badge/HTML5-BFA8E0?style=for-the-badge&logo=html5&logoColor=150D1E" alt="HTML5" />
   <img src="https://img.shields.io/badge/CSS3-BFA8E0?style=for-the-badge&logo=css3&logoColor=150D1E" alt="CSS3" />
@@ -65,7 +65,7 @@ I am a **4th-year Web Development student**, **UI/UX Designer**, and **Full-Stac
 
 ---
 
-### ✦ Archival Ledger • GitHub Activity
+### ✦ GitHub Activity
 
 <p align="center">
   <img height="170" src="https://github-readme-stats-five-sigma-99.vercel.app/api?username=ElishaClaireGania&show_icons=true&bg_color=150D1E&title_color=BFA8E0&text_color=EDE7F6&icon_color=D4AF37&border_color=BFA8E0&count_private=true" alt="Elisha's GitHub Stats" />
