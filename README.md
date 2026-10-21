@@ -15,6 +15,8 @@
 </p>
 
 ---
+My Portfolio:
+https://elishaclairegania.github.io/OnePage-EPortfolio/
 
 I’m a 4th‑year Web Development student, UI/UX designer, and Full-Stack Web Developer passionate about building resilient, high‑quality web applications and robust API systems. My approach blends user-centered design with the structural discipline of modern API and database engineering.
 
